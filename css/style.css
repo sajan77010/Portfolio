@@ -76,6 +76,9 @@ nav a{
     background-repeat: no-repeat;
     background-position: bottom right;
 }
+.banner-content{
+    max-width: 500px;
+}
 
 .banner .banner-profile{
     width: 500px;
