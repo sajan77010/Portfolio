@@ -45,6 +45,7 @@ nav{
 
 .portfolio-title{
     font-size: 45px;
+    
 }
 
 nav ul{
@@ -66,9 +67,14 @@ nav a{
     background-color: #fff8f3;
 }
 
-.banner{
-    padding: 30px 150px;
+.banner {
+    padding: 20px 30px 0px 150px;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url("../image/header_bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 
 .banner .banner-profile{
