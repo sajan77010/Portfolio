@@ -68,4 +68,10 @@ nav a{
 
 .banner{
     padding: 30px 150px;
+    display: flex;
+}
+
+.banner .banner-profile{
+    width: 584px;
+    height: 674px;
 }
