@@ -1,7 +1,17 @@
+*{
+   
+    box-sizing: border-box;
+}
 body{
     font-family: "Open Sans", serif;
-    font-optical-sizing: auto;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    
 }
+
 
 .text-primary{
     color: #FD6E0A;
@@ -15,11 +25,22 @@ body{
     font-weight: 800;
     font-size: 20px;
 }
+.btn-secondary{
+    background-color: #FFF8F3;
+    border-radius: 5px;
+    padding: 15px 35px;
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 20px;
+}
 
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0px 150px;
 }
 
 .portfolio-title{
@@ -43,4 +64,8 @@ nav a{
 
 .header{
     background-color: #fff8f3;
+}
+
+.banner{
+    padding: 30px 150px;
 }
