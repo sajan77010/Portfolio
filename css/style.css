@@ -114,3 +114,57 @@ main{
     font-weight: 700;
     color: #181818;
 }
+.section-description{
+    padding: 0 130px;
+    text-align: center;
+    font-size: 18px;
+}
+.mb-30{
+    padding: 30px 150px;
+}
+
+.about-container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.about-info{
+    text-align: center;
+}
+
+.info-title {
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: -12px;
+}
+.info-description{
+    font-size: 20px;
+    color: #474747;
+    
+}
+
+
+.skill-contanier {
+    display: flex;
+    gap: 30px;
+}
+
+.skill {
+    padding: 20px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    background: #fff;
+}
+.skill img{
+    margin-bottom: 20px;
+}
+.skill-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+}
+
+p.skill-description {
+    font-size: 18px;
+    line-height: 1.5;
+}
