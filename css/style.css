@@ -119,7 +119,7 @@ main{
     text-align: center;
     font-size: 18px;
 }
-.mb-30{
+.p-30{
     padding: 30px 150px;
 }
 
@@ -164,7 +164,7 @@ main{
     margin: 0;
 }
 
-p.skill-description {
+.skill-description {
     font-size: 18px;
     line-height: 1.5;
 }
