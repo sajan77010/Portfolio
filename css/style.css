@@ -168,3 +168,38 @@ main{
     font-size: 18px;
     line-height: 1.5;
 }
+
+
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item-title{
+    margin-bottom: -10px;
+}
+
+.resume-item-titles{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}   
+
+
+.resume-item-institute{
+    font-size: 25px;
+    color: #757575;
+    margin-bottom: 0px;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.footer-bg{
+    background-color: #FD6E0A;
+    padding: 100px;
+}
