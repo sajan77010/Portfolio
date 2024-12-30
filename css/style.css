@@ -69,9 +69,9 @@ nav a{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-image: url("../image/header_bg.png");
+    background-image: url("../image/header_bg.png"), url("../image/developer.png");
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, left top;
 }
 .banner-content{
     max-width: 500px;
